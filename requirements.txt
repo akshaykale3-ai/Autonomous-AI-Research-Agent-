@@ -1,0 +1,25 @@
+# Langchain
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-experimental
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-ollama
+
+# Environmental variable
+python-dotenv
+
+# Python - jupyter kernel
+ipykernel
+
+# Google GenAI
+google-genai
+
+scikit-learn
+
+reportlab
+faiss-cpu
+pypdf
